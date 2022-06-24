@@ -1,2 +1,4 @@
-# mcwiki
-[woifdog]( https://github.com/woifdog) 
+# Minecarft 指令教室
+
+Contributors
+·[woifdog]( https://github.com/woifdog) 
